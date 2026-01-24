@@ -1,7 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-/* Custom styles for emergency-cleaning-services-columbus-ohio */
+/* Custom styles for columbus-home-cleaners */
 :root {
-    --primary: var(--color-amber-500);
+    --primary: var(--color-blue-500);
     --secondary: var(--color-zinc-500);
 }
 

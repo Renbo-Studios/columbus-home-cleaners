@@ -1,13 +1,13 @@
 {
-  "name": "Emergency Cleaning in Columbus: Fast, Professional, Same-Day Results",
-  "description": "Need urgent cleaning in Columbus, Ohio? Get 24/7 emergency deep cleaning for homes and businesses. Fast and reliable. Book your same-day service now!",
+  "name": "Columbus Home Cleaners: Professional Home Cleaning Services",
+  "description": "Discover the best home cleaning services in Columbus, Ohio. Our professional and reliable team provides top-quality cleaning for your home. Book your service today!",
   "category": "cleaning",
   "location": "Columbus, Ohio",
   "domain": "columbus-home-cleaners.renbo.site",
   "theme": {
-    "primary": "amber",
+    "primary": "blue",
     "secondary": "zinc",
-    "tone": "urgent"
+    "tone": "professional"
   },
   "generatedAt": "2026-01-24T11:49:36.505Z"
 }
